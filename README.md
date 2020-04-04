@@ -1,11 +1,10 @@
 [github]: https://github.com/rayou/docker-ansible
 [app-github]: https://github.com/ansible/ansible
-[microbadger]: https://microbadger.com/images/rayou/ansible
 [dockerstore]: https://hub.docker.com/r/rayou/ansible
 [donation]: https://donorbox.org/rayou?amount=10
 
 # docker-ansible
-[![](https://images.microbadger.com/badges/image/rayou/ansible.svg)][microbadger] [![](https://images.microbadger.com/badges/version/rayou/ansible.svg)][microbadger] [![](https://img.shields.io/docker/stars/rayou/ansible.svg)][dockerstore] [![](https://img.shields.io/badge/Donate-Donorbox-green.svg)][donation]
+[![](https://img.shields.io/docker/image-size/rayou/ansible?sort=semver)][dockerstore] [![](https://img.shields.io/docker/v/rayou/ansible?sort=semver)][dockerstore] [![](https://img.shields.io/docker/stars/rayou/ansible.svg)][dockerstore] [![](https://img.shields.io/badge/Donate-Donorbox-green.svg)][donation]
 
 Docker image of [ansible][app-github].
 
