@@ -5,7 +5,7 @@
 
 # docker-ansible
 
-![Docker Pulls](https://img.shields.io/docker/pulls/rayou/ansible) [![](https://img.shields.io/docker/image-size/rayou/ansible?sort=semver)][dockerstore] [![](https://img.shields.io/docker/v/rayou/ansible?sort=semver)][dockerstore] [![](https://img.shields.io/docker/stars/rayou/ansible.svg)][dockerstore] [![](https://img.shields.io/badge/☕️-Buy%20Me%20A%20Coffee-important.svg)][donation]
+[![](https://img.shields.io/docker/pulls/rayou/ansible)][dockerstore] [![](https://img.shields.io/docker/image-size/rayou/ansible?sort=semver)][dockerstore] [![](https://img.shields.io/docker/v/rayou/ansible?sort=semver)][dockerstore] [![](https://img.shields.io/docker/stars/rayou/ansible.svg)][dockerstore] [![](https://img.shields.io/badge/☕️-Buy%20Me%20A%20Coffee-important.svg)][donation]
 
 Docker image of [ansible][app-github].
 
