@@ -25,6 +25,12 @@ $ docker build --build-arg VERSION=$ANSIBLE_VERSION -t ansible .
 ### Run `ansible` directly
 
 ```bash
+$ docker run --rm -it --entrypoint=/usr/local/bin/ansible rayou/ansible:latest --help
+```
+
+### Run `ansible-playbook` directly
+
+```bash
 $ docker run --rm -it rayou/ansible:latest --help
 ```
 
