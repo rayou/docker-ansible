@@ -1,7 +1,7 @@
 [github]: https://github.com/rayou/docker-ansible
 [app-github]: https://github.com/ansible/ansible
 [dockerstore]: https://hub.docker.com/r/rayou/ansible
-[donation]: https://donorbox.org/rayou?amount=10
+[donation]: https://www.buymeacoffee.com/rayou
 
 # docker-ansible
 
