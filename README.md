@@ -5,7 +5,7 @@
 
 # docker-ansible
 
-[![](https://img.shields.io/docker/image-size/rayou/ansible?sort=semver)][dockerstore] [![](https://img.shields.io/docker/v/rayou/ansible?sort=semver)][dockerstore] [![](https://img.shields.io/docker/stars/rayou/ansible.svg)][dockerstore] [![](https://img.shields.io/badge/Donate-Donorbox-green.svg)][donation]
+![Docker Pulls](https://img.shields.io/docker/pulls/rayou/ansible) [![](https://img.shields.io/docker/image-size/rayou/ansible?sort=semver)][dockerstore] [![](https://img.shields.io/docker/v/rayou/ansible?sort=semver)][dockerstore] [![](https://img.shields.io/docker/stars/rayou/ansible.svg)][dockerstore] [![](https://img.shields.io/badge/☕️-Buy%20Me%20A%20Coffee-important.svg)][donation]
 
 Docker image of [ansible][app-github].
 
@@ -42,9 +42,9 @@ PRs are welcome.
 
 Ray Ou - yuhung.ou@live.com
 
-# Donation
+# Support this project
 
-[![](https://d1iczxrky3cnb2.cloudfront.net/button-small-green.png)][donation]
+<a href="https://www.buymeacoffee.com/rayou" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
 # License
 
