@@ -1,10 +1,10 @@
-FROM python:3.8-alpine3.12 as base
+FROM python:3.9.1-alpine3.13 as base
 RUN apk --no-cache add openssl ca-certificates
 
 FROM base as builder
 ARG VERSION
 
-RUN apk --no-cache add --virtual build-dependencies libffi-dev openssl-dev build-base && \
+RUN apk --no-cache add --virtual build-dependencies libffi-dev openssl-dev build-base cargo && \
     pip install --upgrade pip cffi && \
     pip wheel --wheel-dir=/root/wheels ansible-base==$VERSION
 
